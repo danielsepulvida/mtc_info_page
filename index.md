@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://avatars.githubusercontent.com/u/23561793?v=4" style="width: 10%; height: auto;">
+<img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_6.png" style="width: 10%; height: auto;">
 
 Hi, I'm Daniel Sepulvida. Check out my repos!
 
