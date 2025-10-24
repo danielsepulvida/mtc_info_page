@@ -2,9 +2,9 @@
 
 ## About Me
 
-<img src="data.github_user.current.avatar_url" style="width: 10%; height: auto;">
+<img src="https://avatars.githubusercontent.com/u/23561793?v=4" style="width: 10%; height: auto;">
 
-Hi, I'm data.github_user.current.name. Check out my repos!
+Hi, I'm Daniel Sepulvida. Check out my repos!
 
 ## Projects
 
@@ -16,4 +16,4 @@ Hi, I'm data.github_user.current.name. Check out my repos!
 
 ---
 
-@ time_static.this.year data.github_user.current.name
+@ 2025 Daniel Sepulvida
