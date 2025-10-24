@@ -10,9 +10,7 @@ Hi, I'm Daniel Sepulvida. Check out my repos!
 
 | Project Name      | Web Page                                                          | Link                                                             |
 |-------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-| [GitHub](https://github.com/danielsepulvida/mtc-backend-prod)    |
 | mtc-backend-prod    | No Page  | [GitHub](https://github.com/danielsepulvida/mtc-backend-prod.git)      |
-| [GitHub](https://github.com/danielsepulvida/mtc-backend-prod)    |
 | mtc-infra-prod    | [Webpage](https://danielsepulvida.github.io/mtc-infra-prod/)  | [GitHub](https://github.com/danielsepulvida/mtc-infra-prod.git)      |
 
 ---
